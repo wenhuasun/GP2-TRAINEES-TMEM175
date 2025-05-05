@@ -15,7 +15,7 @@ All data was using release 8 GP2 data and AMP-PD release 4.
 # Software
 | Software   | Version(s) | Resource URL |
 |----------------|--------|------------------|
-| ANNOVAR         |  | http://www.openbioinformatics.org/annovar/ |
+| ANNOVAR         | 2020-06-08 | http://www.openbioinformatics.org/annovar/ |
 | PLINK  | 105    | Opposite         |
 | GCTA | 105  | Opposite         |
 | RVTests | 105  | Opposite         |
