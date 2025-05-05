@@ -16,11 +16,11 @@ All data was using release 8 GP2 data and AMP-PD release 4.
 | Software   | Version(s) | Resource URL |
 |----------------|--------|------------------|
 | ANNOVAR         | 2020-06-08 | http://www.openbioinformatics.org/annovar/ |
-| PLINK  | 105    | Opposite         |
-| GCTA | 105  | Opposite         |
-| RVTests | 105  | Opposite         |
-| LDpair | 105  | Opposite         |
-| Python Programming Language | 105  | Opposite         |
-| R Project for Statistical Computing | 105  | Opposite         |
+| PLINK  | 1.9 and 2.0    | http://www.nitrc.org/projects/plink             |
+| GCTA | 1.94.1  | https://yanglab.westlake.edu.cn/software/gcta/#Overview         |
+| RVTests | 2019-02-05  | http://zhanxw.github.io/rvtests/         |
+| LDpair | /  | https://ldlink.nih.gov/?tab=ldpair         |
+| Python Programming Language | 3.8 and 3.9  | http://www.python.org/         |
+| R Project for Statistical Computing | 4.2  | http://www.r-project.org/        |
 
 
