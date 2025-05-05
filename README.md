@@ -13,11 +13,14 @@ All data was using release 8 GP2 data and AMP-PD release 4.
 
 
 # Software
-| Variant Type   | Number | Effect Direction |
+| Software   | Version(s) | Resource URL |
 |----------------|--------|------------------|
-| Exonic         | 174    | Concordant       |
-| Nonsynonymous  | 105    | Opposite         |
-| Loss-of-Function | 105  | Opposite         |
-
+| ANNOVAR         |  | http://www.openbioinformatics.org/annovar/ |
+| PLINK  | 105    | Opposite         |
+| GCTA | 105  | Opposite         |
+| RVTests | 105  | Opposite         |
+| LDpair | 105  | Opposite         |
+| Python Programming Language | 105  | Opposite         |
+| R Project for Statistical Computing | 105  | Opposite         |
 
 
