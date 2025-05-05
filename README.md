@@ -9,6 +9,13 @@ All GP2 data is hosted in collaboration with the Accelerating Medicines Partners
 All data was using release 8 GP2 data and AMP-PD release 4.
 
 # Analysis Notebooks
+| Notebooks   | Description | 
+|----------------|--------|
+| TMEM175_ALL_GLM         | Association analysis, GLM analysis, GCTA-COJO analysis, single variant based and gene based analysis of TMEM175 with GP2 Neurobooster array|
+| SCARB2_ALL_GLM         | Association analysis, GLM analysis, GCTA-COJO analysis, single variant based and gene based analysis of SCARB2 with GP2 Neurobooster array|
+| CTSB_ALL_GLM         | Association analysis, GLM analysis, GCTA-COJO analysis, single variant based and gene based analysis of CTSB with GP2 Neurobooster array|
+| GBA1_AMPPD         | single variant based and gene based analysis of GBA1 with AMPPD|
+
 ## Languages: Python, bash, and R
 
 
