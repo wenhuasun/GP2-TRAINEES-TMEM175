@@ -20,15 +20,7 @@ All data was using GP2 release 8(https://zenodo.org/records/13755496) and AMP-PD
  -  GP2/ includes 3 notebooks on processing and analyzing GP2 Neuobooster array data from release 8
  -  AMP-PD/ includes 1 notebook on processing and analyzing whole genome sequencing data from release 4
 
-THIS_REPO/
-├── README.md
-└── analyses/
-    ├── AMP-PD/
-    │   └── 00_GBA1_AMPPD.ipynb
-    └── GP2/
-        ├── 00_TMEM175_ALL_GLM.ipynb
-        ├── 01_SCARB2_ALL_GLM.ipynb
-        └── 02_CTSB_ALL_GLM.ipynb
+<pre> ``` THIS_REPO/ ├── README.md └── analyses/ ├── AMP-PD/ │ └── 00_GBA1_AMPPD.ipynb └── GP2/ ├── 00_TMEM175_ALL_GLM.ipynb ├── 01_SCARB2_ALL_GLM.ipynb └── 02_CTSB_ALL_GLM.ipynb ``` </pre>
 
 # Analysis Notebooks
 ## Languages: Python, bash, and R
