@@ -23,12 +23,12 @@ All data was using GP2 release 8(https://zenodo.org/records/13755496) and AMP-PD
 <pre> ``` THIS_REPO/ 
   ├── README.md 
   └── analyses/ 
-  ├── AMP-PD/ 
-  │ └── 00_GBA1_AMPPD.ipynb 
-  └── GP2/ 
-  ├── 00_TMEM175_ALL_GLM.ipynb 
-  ├── 01_SCARB2_ALL_GLM.ipynb 
-  └── 02_CTSB_ALL_GLM.ipynb ``` </pre>
+   ├── AMP-PD/ 
+   │     └── 00_GBA1_AMPPD.ipynb 
+   └── GP2/ 
+       ├── 00_TMEM175_ALL_GLM.ipynb 
+       ├── 01_SCARB2_ALL_GLM.ipynb 
+       └── 02_CTSB_ALL_GLM.ipynb ``` </pre>
 
 # Analysis Notebooks
 ## Languages: Python, bash, and R
